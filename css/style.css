@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+}
+.quote{
+  color: #F01010;
+  font-style: italic;
+  min-height: 100px;
+}
+.author{
+  text-align: right;
+}
